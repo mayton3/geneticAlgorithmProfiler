@@ -1,5 +1,5 @@
 # geneticAlgorithmProfiler
-Профилирование a³+b³+c³≈0
+Профильные a³+b³+c³≈0
 
 main.py это main.ipynb
 
@@ -9,4 +9,4 @@ main.py это main.ipynb
 
 Результат профилирования находится в файле: report.txt
 
-Добавил: generation_backup.csv и population_backup.csv
+Не удалось добавить из-за ограничения 25 МБ: generation_backup.csv и population_backup.csv
